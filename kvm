@@ -1,0 +1,5 @@
+suo dmesg | grep kvm
+apt update
+sudo apt install qemu-kvm libvirt-deamon-system virt-machine
+sudo adduser $user libvert
+sudo systemclt enable libvert.service --now
